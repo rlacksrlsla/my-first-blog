@@ -25,7 +25,7 @@ SECRET_KEY = 'ovba#=_9h^7((^%d-xfwkc5ljwg^wtig6#@8$hy%wf_29v3!!)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['172.19.83.9','rlacksrlsla.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
